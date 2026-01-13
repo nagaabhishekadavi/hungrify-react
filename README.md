@@ -1,9 +1,7 @@
-
-
 # Parcel
-- Dev Build
-- Local Server
+
 - HMR = Hot Module Replacement
+- Dev Build
 - File Watching Algorithm - written in C++
 - Caching - Faster Builds
 - Image Optimization
@@ -21,9 +19,9 @@
 
 
 
-# Swiggy Food
+# Hungrify Food
 
-
+   # Design Plan:
 /**
  * Header
  *  - Logo
